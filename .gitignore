@@ -36,3 +36,4 @@ my_detection/
 helmet_dataset/
 
 *.csv
+*.jpg
