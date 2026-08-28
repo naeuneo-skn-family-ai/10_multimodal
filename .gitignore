@@ -37,3 +37,5 @@ helmet_dataset/
 
 *.csv
 *.jpg
+*.mp4
+*.png
