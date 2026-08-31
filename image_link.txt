@@ -1,0 +1,27 @@
+filename,title_ko,category,official_document_url
+hostname-subtab.png,Imager 호스트명 설정,imager,https://www.raspberrypi.com/documentation/computers/getting-started.html
+localisation-subtab.png,Imager 국가·시간대·키보드 설정,imager,https://www.raspberrypi.com/documentation/computers/getting-started.html
+user-subtab.png,Imager 사용자명·비밀번호 설정,imager,https://www.raspberrypi.com/documentation/computers/getting-started.html
+connect-subtab.png,Imager Raspberry Pi Connect 설정,connect,https://www.raspberrypi.com/documentation/computers/getting-started.html
+os-customisation-site.png,Raspberry Pi Connect 로그인 페이지,connect,https://www.raspberrypi.com/documentation/computers/getting-started.html
+connect-auth-key.png,Raspberry Pi Connect 인증 키 생성,connect,https://www.raspberrypi.com/documentation/computers/getting-started.html
+app-options.png,Imager 앱 옵션 설정,imager,https://www.raspberrypi.com/documentation/computers/getting-started.html
+are-you-sure.png,저장장치 삭제 및 기록 확인,imager,https://www.raspberrypi.com/documentation/computers/getting-started.html
+microSD.png,공식 Raspberry Pi microSD 카드,storage,https://www.raspberrypi.com/documentation/computers/getting-started.html
+sd-card.png,microSD 카드 삽입 방법,storage,https://www.raspberrypi.com/documentation/computers/getting-started.html
+cable-hdmi.png,HDMI 케이블 연결 방법,peripheral,https://www.raspberrypi.com/documentation/computers/getting-started.html
+cable-net.png,Ethernet 케이블 연결 방법,network,https://www.raspberrypi.com/documentation/computers/getting-started.html
+cable-all.png,전체 주변기기 및 케이블 연결 상태,peripheral,https://www.raspberrypi.com/documentation/computers/getting-started.html
+shutdown.png,Raspberry Pi OS 종료 메뉴 위치,shutdown,https://www.raspberrypi.com/documentation/computers/getting-started.html
+shutdown-menu.png,종료·재부팅 선택 화면,shutdown,https://www.raspberrypi.com/documentation/computers/getting-started.html
+network-tooltip.png,Raspberry Pi IP 주소 확인,remote_access,https://www.raspberrypi.com/documentation/computers/remote-access.html
+vnc-enable.png,VNC 서버 활성화,remote_access,https://www.raspberrypi.com/documentation/computers/remote-access.html
+vnc-tigervnc-enter-ip.png,TigerVNC에서 IP 주소 입력,remote_access,https://www.raspberrypi.com/documentation/computers/remote-access.html
+vnc-tigervnc-username-password.png,VNC 사용자명·비밀번호 입력,remote_access,https://www.raspberrypi.com/documentation/computers/remote-access.html
+vnc-tigervnc-desktop.png,VNC 원격 데스크톱 연결 성공,remote_access,https://www.raspberrypi.com/documentation/computers/remote-access.html
+m2-hat-plus-installation-02.png,M.2 HAT+ PCIe 리본 케이블 연결,nvme,https://www.raspberrypi.com/documentation/accessories/m2-hat-plus.html
+m2-hat-plus-installation-05.png,M.2 HAT+에 NVMe SSD 삽입,nvme,https://www.raspberrypi.com/documentation/accessories/m2-hat-plus.html
+m2-hat-plus-installation-07.png,M.2 HAT+ 설치 완료 상태,nvme,https://www.raspberrypi.com/documentation/accessories/m2-hat-plus.html
+pcie.jpg,Raspberry Pi 5 PCIe 커넥터 위치,pcie,https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
+j5.png,Raspberry Pi 5 RTC J5 커넥터 위치,rtc,https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
+rtc-battery.jpg,Raspberry Pi 5 공식 RTC 배터리,rtc,https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
